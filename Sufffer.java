@@ -18,3 +18,13 @@ public class Sufffer {
     }
     
 }
+
+
+/*
+String --- immutable  no chnage hard core
+
+string buffer and string builder --- mutable chnageble soft
+
+string buffer takes more time to implement .
+string builder take less time to implement
+*/
